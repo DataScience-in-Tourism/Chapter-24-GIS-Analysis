@@ -1,6 +1,7 @@
 # Chapter 24: GIS Analysis
 
 ## Making sense of geospatial data
+## http://www.datascience-in-tourism.com/
 
 ***Andrei P. Kirilenko***
 
